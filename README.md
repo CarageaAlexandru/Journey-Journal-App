@@ -1,18 +1,44 @@
-# Welcome to Journey Journal
+# Journey Journal 📖✈️
 
-## This app was created by our team "Work from Ho Ho Home"
+Welcome to Journey Journal, the ultimate mobile app for documenting your travel experiences and creating lasting memories! 🌍💫
 
-<br>
+## What is Journey Journal? 🤔
 
-> ### You can see a working version [here](https://northcoders.com/projects/nov-2022/journey-journal).
+Journey Journal is a powerful tool designed for tourists, holiday goers, and anyone who wants a fast and intuitive way to capture their adventures on the go. With Journey Journal, you can easily document your memories and experiences, all within a user-friendly mobile application. 📱✨
 
-<br>
+### This app was created by our team "Work from Ho Ho Home" as part of our final project at Northcoders Bootcamp -> [presentation](https://northcoders.com/projects/nov-2022/journey-journal)
 
-### What is a journey journal?
 
-Journey Journal functions as a tool for tourists, holiday goers, or any other kind of user who is in need of a fast, intuitive way to document their memories and experiences, all within an easy to use mobile application.. Journey Journal also includes features that we hope can improve your trips by recommending places to visit. We were inspired to make this app as it was something that was missing from all our phone libraries but we would all use going forward and took the opportunity to develop our app to our preferences.
-Users will make Journey cards which are specific to their own details. Start by adding a trip and giving it a Name, City & start to end date. In this trip card will be details of specific
-places you visited on the trip split up into three categories; Accommodation, Catering, Attractions. These will also hold cards of their own which you can break down even further like Name, City, Address, Description, Rating and date. This will allow users to remember all aspects of a trip, the good the bad and the ugly for personal keepsakes. Journey Journal also incorporates a suggestions tab which will give the user places to visit based on their location in hopes to improve their experiences.
+## Features ✨
+
+- 🗺️ Create personalized Journey cards for each trip
+- 📅 Add trip details including Name, City, and start/end dates
+- 🏨 Document specific places visited during the trip, categorized into Accommodation, Catering, and Attractions
+- 📝 Capture details for each place, such as Name, City, Address, Description, Rating, and date
+- 💡 Get personalized suggestions for places to visit based on your location
+- 💾 Store your memories securely and access them anytime, anywhere
+
+## Demo 🎥
+
+Check out the demo gif to see Journey Journal in action:
+
+![Journey Journal Demo](assets/demo.gif)
+
+## Technologies Used 🛠️
+
+Journey Journal is built using the following technologies:
+
+- ⚛️ React Native
+- 🚀 Expo
+- 🔥 Firebase
+- 📜 React Native Paper
+
+## APIs 🌐
+
+Journey Journal integrates with the following APIs to enhance your travel experience:
+
+- 🌍 Geoapify
+- 🎟️ Ticketmaster
 
 In order to access this repo locally, you can either fork and clone this repo, or clone directly from the following url:
 
@@ -36,3 +62,4 @@ FIREBASE_APP_ID=1:*Your Firebase config details here*
 TICKETMASTER_API=*Your ticketmaster API key here*
 GEOPIFY_API_KEY=*Your geopify API key here*
 ```
+
