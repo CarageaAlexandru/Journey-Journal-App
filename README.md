@@ -22,7 +22,7 @@ Journey Journal is a powerful tool designed for tourists, holiday goers, and any
 
 Check out the demo gif to see Journey Journal in action:
 
-![Journey Journal Demo](assets/demo.gif)
+![Journey Journal Demo](assets/Demo.gif)
 
 ## Technologies Used 🛠️
 
